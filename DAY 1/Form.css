@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+
+}
+
+div .form{   
+    display: block;
+    text-align: center;
+}
+.form-container{
+    border-style: solid;
+    border-color: teal;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.enter{
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight:bold;
+    color:teal;
+}
